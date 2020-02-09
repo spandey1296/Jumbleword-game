@@ -11,11 +11,9 @@ NEXT PLAYER WILL GET CHANCE.
 
 You can reach to my Facebook Page for latest information and technology Trends.
 
-Fb links: https://www.facebook.com/groups/714004659022843/?ref=bookmarks
+Fb links:  https://www.facebook.com/groups/714004659022843/?ref=bookmarks
 
-LinkedIn Url:
-
-https://www.linkedin.com/in/shivant-pandey-6469a1164/
+LinkedIn Url: https://www.linkedin.com/in/shivant-pandey-6469a1164/
 
 Developed By : Shivant Pandey
 
