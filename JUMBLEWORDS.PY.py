@@ -1,5 +1,9 @@
-# JUMBLE WORDS GAM IN WHICH TWO PLAYER CAN PLAY SIMULTANEOUSLY
-
+# JUMBLE WORDS GAME IN WHICH TWO PLAYER CAN PLAY SIMULTANEOUSLY. You have to think and make meaningful words.
+print("""
+                         Welcome to coder2hacker Joy of Computing Using Python
+                                       Let's Play 
+                                       Brain Game
+""")
 import random
 def choose():
     c=['computer','nursing','management','science','Python','Dictionary','chitkara']
@@ -49,3 +53,5 @@ def play():
                 break
         turn = turn +1
 play()
+
+print("""Thanks for Playing!!! """)
